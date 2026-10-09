@@ -5,10 +5,10 @@
   "compatibility_date": "2026-07-30",
   "compatibility_flags": ["nodejs_compat"],
   "d1_databases": [
-    { "binding": "DB" }
+    { "binding": "DB", "database_name": "novaproxy-panel-db", "database_id": "d9be817e-f9ec-4e53-af51-67da86c854f3" }
   ],
   "kv_namespaces": [
-    { "binding": "KV" }
+    { "binding": "KV", "id": "e7db2af0db5742cb8ebfddc3ee6ac5bb" }
   ],
   "workers_dev": true,
   "preview_urls": true,
